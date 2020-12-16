@@ -1,7 +1,8 @@
 ### Hi
 
-🌱 [TISTORY](https://husk321.tistory.com/)     [NAVER POST](https://post.naver.com/husk321?isHome=1) 
+#### 게임 개발자 지망
 
-```
-[![Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)
-```
+🌱 개인 티스토리 블로그 [TISTORY](https://husk321.tistory.com/)     
+
+​       네이버 포스트 게임 [NAVER POST](https://post.naver.com/husk321?isHome=1) 
+
