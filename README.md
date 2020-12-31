@@ -1,8 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Hi%20there&animation=fadeIn&color=808080)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Hi%20there&animation=fadeIn&color=222831)
 
-<h3 align="center">🌱 Now Studying</h3>
+<h3 align="center"> I'm Here </h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/C++-00599C?style=forthebage&logo=C&2B&2B&logoColor=white"/ width="77px">&nbsp
-  <img src="https://img.shields.io/badge/Unity-000000?style=forthebage&logo=Unity&logoColor=white"/ width="80px>&nbsp
+2021.01.01~2020.02.28 : Algorithm Study
 </p>
-<br>
+<h3 align="center">🌱 I'm Studying 🌱</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/-C++-blue"/ width="88px">&nbsp
+  <img src="https://img.shields.io/badge/-Unity-black"/ width="100px">&nbsp
+  <img src="https://img.shields.io/badge/-Git-gray"/ width="65px">&nbsp
+</p>
+
+<h3 align="center">🎶🎶🎶🎶</h3>
+
+<p align="center">
+  <a href="https://husk321.tistory.com/"><img src="https://img.shields.io/badge/-Tistory-blue"/ width="77px"></a>&nbsp
+  <a href="https://post.naver.com/husk321?isHome=1"><img src="https://img.shields.io/badge/-NaverPost-green"/ width="105px"></a>&nbsp
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer&animation=fadeIn&color=d0e8f2)
