@@ -1,8 +1,13 @@
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header](https://capsule-render.vercel.app/api?type=slice&text=Hi%20there&animation=fadeIn&color=808080)
 
-### Tool
-
-Unity <image src="https://user-images.githubusercontent.com/68003176/102338695-88c40b80-3fd7-11eb-8771-4b2bcdadb327.png" height="30">   Vs Code <image src="https://user-images.githubusercontent.com/68003176/102339319-523ac080-3fd8-11eb-8b0e-bdfb3434078d.png" height="30">
-
-### Without GitHub
-<image src="https://user-images.githubusercontent.com/68003176/102339832-194f1b80-3fd9-11eb-99ab-3c8f8f633c1a.png" height="30">   [***티스토리***](https://husk321.tistory.com/)   <image src="https://user-images.githubusercontent.com/68003176/102339839-1bb17580-3fd9-11eb-9271-82902fb5bb71.png" height="30">  [***네이버 포스트***](https://post.naver.com/husk321?isHome=1) 
+<h3 align="center">🌱 Now Studying</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/C++-00599C?style=forthebage&logo=C&2B&2B&logoColor=white"/ width="77px">&nbsp
+  <img src="https://img.shields.io/badge/Unity-000000?style=forthebage&logo=Unity&logoColor=white"/ width="80px>&nbsp
+</p>
+<br>
+                       
+<h3 align="center">👀My Blog👀</h3>                                                     
+<p align="center">
+    <img src="https://img.shields.io/badge/C++-00599C?style=forthebage&logo=C&2B&2B&logoColor=white"/ width="77px">&nbsp
+</p>
