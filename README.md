@@ -11,6 +11,7 @@
   <br>
   <img src="https://img.shields.io/badge/-Unity-black"/ width="50px">&nbsp
   <img src="https://img.shields.io/badge/-Vs Code-blue"/ width="70px">&nbsp
+    <img src="https://img.shields.io/badge/-Premiere Pro-purple"/ width="100px">&nbsp
 </p>
 
 <h3 align="center">🎶🎶🎶🎶</h3>
