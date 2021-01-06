@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://husk321.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
-  <a href="https://husk321.tistory.com/"><img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
+  <a href="https://velog.io/@husk321"><img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
   <a href="https://post.naver.com/husk321?isHome=1"><img src="https://img.shields.io/badge/NaverPost-019733?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
 </p>
 
