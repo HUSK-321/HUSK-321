@@ -8,6 +8,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/C++++(Unity)-825794?style=flat-square&logo=C&logoColor=white"/></a>&nbsp   
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/></a>&nbsp 
 </p>
