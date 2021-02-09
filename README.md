@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat-square&logo=Adobe-Premiere-Pro&logoColor=white"/></a>&nbsp 
   <br>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/badge/C%23(for Unity)-825794?style=flat-square&logo=C Sharp&logoColor=white"/></a>&nbsp   
+  <img src="https://img.shields.io/badge/C%23(for Unity)-239120?style=flat-square&logo=C&logoColor="/></a>&nbsp   
 </p>
 
 <h3 align="center">🎶🎶🎶🎶</h3>
