@@ -2,7 +2,8 @@
 
 <h3 align="center"> I'm Here </h3>
 <p align="center">
-2021.01.01~2020.02.28 : Algorithm Study
+2021.01.01 ~ : Algorithm Study <br>
+2021.02.20 ~ : GameMakers 5th
 </p>
 <h3 align="center">🌱 I'm Studying 🌱</h3>
 <p align="center">
