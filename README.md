@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=slice&text=Hi%20there&animation=fadeIn&color=222831)
+![header](https://capsule-render.vercel.app/api?type=slice&animation=fadeIn&color=222831)
 
+<h3 align="center"> I'm Here </h3>
 <p align="center">
 2021.01.01 ~ : Algorithm Study <br>
 2021.02.20 ~ : GameMakers 5th
