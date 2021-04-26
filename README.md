@@ -4,7 +4,6 @@
 <p align="center">
 2021.01.01 ~ : Algorithm Study <br>
 2021.02.20 ~ : GameMakers 5th <br>
-2021.03.06 ~ : Quaero-GameMakers 게임 제작
 </p>
 <h3 align="center">🌱 I'm Studying 🌱</h3>
 <p align="center">
