@@ -6,7 +6,7 @@
 2021.02.20 ~ : GameMakers 5th <br>
 </p>
 
-![HUSK's github stats](https://github-readme-stats.vercel.app/api?username=JangHanjun&show_icons=true)
+![HUSK's github stats](https://github-readme-stats.vercel.app/api?username=JangHanjun&show_icons=true&theme=tokyonight)
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=husk321)](https://solved.ac/husk321)<br/>
 
 
