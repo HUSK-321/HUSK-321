@@ -16,6 +16,9 @@
   <img src="https://img.shields.io/badge/C%23(for Unity)-239120?style=flat-square&logo=C&logoColor="/></a>&nbsp   
   <br>
 </p>
+<p>
+  ![husk's github stats](https://github-readme-stats.vercel.app/api?username=JangHanjun&show_icons=true)
+</p>
 
 <h3 align="center">🎶🎶🎶🎶</h3>
 
