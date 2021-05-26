@@ -24,7 +24,4 @@
   <a href="https://velog.io/@husk321"><img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
   <a href="https://post.naver.com/husk321?isHome=1"><img src="https://img.shields.io/badge/NaverPost-019733?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=husk321)](https://solved.ac/husk321/)
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username={husk}&show_icons=true&theme={theme})](https://github.com/{husk}/github-readme-stats)
-
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer&animation=fadeIn&color=d0e8f2)
