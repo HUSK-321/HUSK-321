@@ -7,7 +7,8 @@
 </p>
 
 ![HUSK's github stats](https://github-readme-stats.vercel.app/api?username=JangHanjun&show_icons=true&theme=tokyonight)
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=husk321)](https://solved.ac/husk321)<br/>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=husk321)](https://solved.ac/husk321/)
+<br/>
 
 
 <h3 align="center">🌱 I'm Studying 🌱</h3>
