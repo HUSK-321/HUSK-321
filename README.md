@@ -4,7 +4,7 @@
 <p align="center">
 2021.01.01 ~ : Algorithm Study <br>
 2021.02.20 ~ : GameMakers 5th <br>
-2021.07.15 ~ : <a href="https://teammir.tistory.com/">팀 미르 게임 제작</a><br/>
+2021.07.15 ~ : 팀 미르 게임 제작<br/>
 2021.07.23 ~ 2021.07.25 : <a href="https://indie.onstove.com/ko/games/520/">21.07 스토브 게임잼 - [황도 12궁 : 사시미 제로]</a>
 
 </p>
@@ -27,7 +27,9 @@
 <p align="center">
   <a href="https://husk321.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
   <a href="https://velog.io/@husk321"><img src="https://img.shields.io/badge/Velog-1DBF73?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
-  <a href="https://post.naver.com/husk321?isHome=1"><img src="https://img.shields.io/badge/NaverPost-019733?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
+  <a href="https://post.naver.com/husk321?=1"><img src="https://img.shields.io/badge/NaverPost-019733?style=flat-square&logo=AddThis&logoColor=white"/></a>
+  <br/>
+    <a href="https://teammir.tistory.com/"><img src="https://img.shields.io/badge/Team_Mir-89CFF0?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer&animation=fadeIn&color=d0e8f2)
