@@ -4,7 +4,7 @@
 <p align="center">
 2021.01.01 ~ : Algorithm Study <br>
 2021.02.20 ~ : GameMakers 5th <br>
-2021.07.15 ~ : [팀 미르 게임 제작](https://teammir.tistory.com/)<br/>
+2021.07.15 ~ : <a href="https://teammir.tistory.com/">팀 미르 게임 제작</a><br/>
   <a href="https://indie.onstove.com/ko/games/520/">21.07 스토브 게임잼 - [황도 12궁 : 사시미 제로]</a>
 
 </p>
