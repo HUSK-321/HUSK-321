@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&animation=fadeIn&color=222831)
+![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JangHanjun&fontSize=70&animation=twinkling)
 
 <h3 align="center"> I'm Here </h3>
 <p align="center">
@@ -32,5 +32,3 @@
   <br/>
     <a href="https://teammir.tistory.com/"><img src="https://img.shields.io/badge/Team_Mir-89CFF0?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
 </p>
-
-![footer](https://capsule-render.vercel.app/api?type=slice&color=EFDC05&height=100&section=footer&animation=fadeIn&color=d0e8f2)
