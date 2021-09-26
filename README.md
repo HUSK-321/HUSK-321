@@ -6,7 +6,7 @@
 2021.02.20 ~ : GameMakers 5th <br>
 2021.07.15 ~ : <a href="https://teammir.tistory.com/">Game Dev in Team_Mir</a><br/>
 <a href="https://indie.onstove.com/ko/games/520/">21.07 Stove Game Jam - [황도 12궁 : 사시미 제로]</a><br/>
-<a href="">21.09 Stove Game Jam - </a>
+<a href="https://indie.onstove.com/ko/games/608/">21.09 Stove Game Jam - 10초 치킨</a>
 
 </p>
 
