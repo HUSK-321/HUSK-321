@@ -13,7 +13,6 @@
 
 </p>
 
-![HUSK's github stats](https://github-readme-stats.vercel.app/api?username=JangHanjun&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=husk321)](https://solved.ac/husk321/)
 <br/>
 
