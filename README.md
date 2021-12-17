@@ -2,9 +2,9 @@
 
 <h3 align="center">👇 I'm Here 👇</h3>
 <p align="center">
-2021.01.01 ~ : Algorithm Study <br>
-2021.02.20 ~ : GameMakers 5th <br>
-2021.07.15 ~ : <a href="https://teammir.tistory.com/">Game Dev in Team_Mir</a><br/>
+21.01.01 ~ : Algorithm Study <br>
+21.02.20 ~ 21.12.17 : GameMakers 5th <br>
+21.07.15 ~ : <a href="https://teammir.tistory.com/">Game Dev in Team_Mir</a><br/>
 </p>
 <h3 align="center">🍯 GameJam - Total : 3 🍯</h3>
 <p align="center">
