@@ -2,9 +2,7 @@
 
 <h3 align="center">👇 I'm Here 👇</h3>
 <p align="center">
-21.01.01 ~ : Algorithm Study <br>
-21.02.20 ~ 21.12.17 : GameMakers 5th <br>
-21.07.15 ~ : <a href="https://teammir.tistory.com/">Game Dev in Team_Mir</a><br/>
+  <a href="https://past-airbus-17b.notion.site/Resume-22bb4bf29dd74192a200440bc03171fe">RESUME</a>
 </p>
 <h3 align="center">🍯 GameJam - Total : 3 🍯</h3>
 <p align="center">
