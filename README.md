@@ -1,32 +1,27 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=JangHanjun&fontSize=70&animation=twinkling)
 
-<h3>👇 I'm Here 👇</h3>
-<p>
-  <a href="https://past-airbus-17b.notion.site/Resume-22bb4bf29dd74192a200440bc03171fe">RESUME</a>
-</p>
-<h3>🍯 GameJam - Total : 3 🍯</h3>
-<p>
-<a href="https://indie.onstove.com/ko/games/520/">21.07 Stove Game Jam - [황도 12궁 : 사시미 제로]</a><br/>
-<a href="https://indie.onstove.com/ko/games/608/">21.09 Stove Game Jam - [10초 치킨]</a>
 
-</p>
+<div align="center">
+  
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=JangHanjun&fontSize=40&fontAlign=80&fontAlignY=40&desc=@husk321&descAlign=88&color=gradient)
+
+
+### Studying With
+  
+<img alt="CPP" src ="https://img.shields.io/badge/CPP-00599C.svg?&style=for-the-badge&logo=c%2B%2B&&logoColor=white"/>
+<img alt="Csharp" src ="https://img.shields.io/badge/CSharp-39477F.svg?&style=for-the-badge&logo=Csharp&logoColor=white"/>
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+  
+<br>
+  
+<img alt="Unity" src ="https://img.shields.io/badge/Unity-57b9d3.svg?&style=for-the-badge&logo=Unity&logoColor=white"/>
+<img alt="Unreal" src ="https://img.shields.io/badge/Unreal-0E1128.svg?&style=for-the-badge&logo=UnrealEngine&logoColor=white"/>
+
+
+### 👇 I'm Here 👇
+<a href="https://husk321.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-20C997.svg?&style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://past-airbus-17b.notion.site/Resume-22bb4bf29dd74192a200440bc03171fe"><img alt="Resume" src ="https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
+<br>
+<br>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=husk321)](https://solved.ac/husk321/)
 <br/>
-
-
-<h3>🌱 I'm Studying 🌱</h3>
-<p>
-  <img src="https://img.shields.io/badge/Unity-black?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp   
-  <img src="https://img.shields.io/badge/C%23(for Unity)-239120?style=flat-square&logo=C&logoColor="/></a>&nbsp   
-  
-  <br>
-</p>
-
-<h3>🎶🎶🎶🎶</h3>
-
-<p>
-  <a href="https://husk321.tistory.com/"><img src="https://img.shields.io/badge/Tistory-607078?style=flat-square&logo=AddThis&logoColor=white"/></a>&nbsp 
-  <a href="https://post.naver.com/husk321?=1"><img src="https://img.shields.io/badge/NaverPost-019733?style=flat-square&logo=AddThis&logoColor=white"/></a>
-</p>
+</div>
