@@ -2,7 +2,7 @@
 
 <div align="center">
   
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Husk&fontSize=40&fontAlign=80&fontAlignY=40&desc=@husk321&descAlign=88&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Husk&fontSize=40&fontAlign=88&fontAlignY=40&desc=@husk321&descAlign=88&color=gradient)
 
 
 ### Studying With
