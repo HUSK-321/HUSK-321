@@ -19,6 +19,7 @@
 
 ### 👇 I'm Here 👇
 <a href="https://husk321.tistory.com/"><img alt="Tistory" src ="https://img.shields.io/badge/Tistory-20C997.svg?&style=for-the-badge&logo=Blogger&logoColor=white"/></a> <a href="https://past-airbus-17b.notion.site/Resume-22bb4bf29dd74192a200440bc03171fe"><img alt="Resume" src ="https://img.shields.io/badge/Resume-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/1o9JeOCfIVm7b0mFEh9dh6y3WLFsEkeh5/view?usp=share_link)
 <br>
 <br>
 
